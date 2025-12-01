@@ -1,0 +1,7 @@
+ant=개미
+book=책
+lebtop=노트북
+mouse=쥐
+finger=손가락
+code=코드
+text=텍스트
